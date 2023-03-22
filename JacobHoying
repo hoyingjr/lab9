@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Lab 9</title>
+<meta charset="utf-8">
+</head>
+<body>
+  <h1>LCB Finance Program</h1>
+  <h2>Jacob Hoying</h2>
+  <p>Finance is an analytical discipline focusing on critical decisions faced by individuals, businesses and nonprofit organizations. It integrates disciplines, drawing on economics as the basis of its theory, accounting as the basis for understanding the information used in the decision making process and the tools of quantitative analysis for the analytical work. An understanding of financial theory and practice evolves to serve as a basis for either entering a financial position in the work force or continuing with graduate studies.
+</p>
+<p>Primary Courses Within The Finance Program</p>
+<dl>
+  <dt>Essentials of Business 1 and 2</dt>
+  <dd>Part of the first year experience for all business students, Essentials of Business 1 and 2 is two seperate one semeseter courses that everyone in the business school will take. It emphasizes the fundamental concepts of business and developing professional skills.</dd>
+
+<dt>Financial Accounting</dt>
+<dd>This course develops foundational knowledge and skills needed to prepare basic financial statements. Topics include cash, inventory, fixed assets, current and long-tern liabilities, and equity.</dd>
+
+<dt>Corporate Finance</dt>
+<dd>This course will teach students to develop the analytical tools necessary for analyzing corporate financing decisions. The central idea to this course revolves around the cost of capital.</dd>
+
+<dt>Business Strategy</dt>
+<dd>This course is intended to be the culmination of your undergraduate curriculum. A capstone course that provides a framework for integrating knowledge from functional foundation courses throughout the undergraduate curriculum.</dd>
+</dl>
+
+<h1>Finance Program Link</h1>
+
+<a href="url">https://business.uc.edu/academics/undergraduate/finance/major.html</a>
+
+<p><small><i>Copyright &copy; 2023 Jacob Hoying</i></small></p>
+</body>
+</html>
